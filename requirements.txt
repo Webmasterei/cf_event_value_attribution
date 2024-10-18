@@ -1,0 +1,4 @@
+google-cloud-bigquery>3.10
+firebase-admin>=6.1.0
+ndjson>=0.3.1
+tqdm>=4.65.0
